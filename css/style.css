@@ -51,4 +51,4 @@ p.ltux-founders_name {
   padding: 0 6.67%;
 }
 
-.list-social { list-style-type: none; }
+.list-social { list-style-type: none !important; }
