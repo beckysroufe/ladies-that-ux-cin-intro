@@ -1,0 +1,27 @@
+/*********************************************
+ * Ladies That UX Phoenix Style
+ *********************************************/
+
+/* Global style override */
+.reveal section img { 
+  background: none; 
+  border: 0;
+  box-shadow: none;
+}
+
+/* Custom LTUX styles */
+.slide-alt h1,
+.slide-alt h2,
+.slide-alt h3,
+.slide-alt h4,
+.slide-alt h5,
+.slide-alt h6 {
+  color: #fff;
+ }
+
+ .ltux-founders_founder {
+  display: inline;
+  width: 25%;
+  padding: 0 12.5%;
+  border-radius: 50%;
+ }
