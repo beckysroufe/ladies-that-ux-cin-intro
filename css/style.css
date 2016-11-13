@@ -9,6 +9,29 @@
   box-shadow: none;
 }
 
+.reveal footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  font-size: 1rem;
+  color: #5abede;
+}
+
+.reveal .copyright,
+.reveal .author {
+  display: inline-block;
+  width: 46%;
+  padding: 1%;
+}
+
+.reveal .copyright {
+  text-align: left;
+}
+
+.reveal .author {
+  text-align: right;
+}
+
 /* Custom LTUX styles */
 .slide-alt h1,
 .slide-alt h2,
