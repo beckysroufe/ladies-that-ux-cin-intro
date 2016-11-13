@@ -17,11 +17,38 @@
 .slide-alt h5,
 .slide-alt h6 {
   color: #fff;
- }
+}
 
- .ltux-founders_founder {
+p.ltux-founders_name {
+  margin-top: 0;
+  font-size: 0.75em;
+}
+
+.ltux-founders--container {
+  display: inline-block;
+  width: 48%
+}
+
+.ltux-founders-phx--container {
+  display: inline-block;
+  width: 30%
+}
+
+.ltux-founders_founder,
+.ltux-founders-phx_founder {
   display: inline;
-  width: 25%;
-  padding: 0 12.5%;
+  margin-bottom: 0 !important;
   border-radius: 50%;
- }
+}
+
+.ltux-founders_founder {
+  width: 50%;
+  padding: 0 12.5%;
+}
+
+.ltux-founders-phx_founder {
+  width: 50%;
+  padding: 0 6.67%;
+}
+
+.list-social { list-style-type: none; }
