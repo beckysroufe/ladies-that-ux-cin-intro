@@ -52,16 +52,21 @@ p.ltux-founders_name {
   width: 48%
 }
 
-.ltux-founders-phx--container {
+.ltux-founders-cin--container {
   display: inline-block;
   width: 30%
 }
 
 .ltux-founders_founder,
-.ltux-founders-phx_founder {
+.ltux-founders-cin_founder {
   display: inline;
   margin-bottom: 0 !important;
   border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  max-width: 200px;
+  max-height: 200px;
+  background-size: contain;
 }
 
 .ltux-founders_founder {
@@ -69,7 +74,7 @@ p.ltux-founders_name {
   padding: 0 12.5%;
 }
 
-.ltux-founders-phx_founder {
+.ltux-founders-cin_founder {
   width: 50%;
   padding: 0 6.67%;
 }
