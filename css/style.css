@@ -62,11 +62,6 @@ p.ltux-founders_name {
   display: inline;
   margin-bottom: 0 !important;
   border-radius: 50%;
-  width: 200px;
-  height: 200px;
-  max-width: 200px;
-  max-height: 200px;
-  background-size: contain;
 }
 
 .ltux-founders_founder {
